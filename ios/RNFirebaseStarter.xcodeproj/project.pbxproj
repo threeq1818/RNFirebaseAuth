@@ -783,6 +783,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1408,7 +1409,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.invertase.RNFirebaseStarter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qqq.rnfsexam;
 				PRODUCT_NAME = RNFirebaseStarter;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1431,7 +1432,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.invertase.RNFirebaseStarter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qqq.rnfsexam;
 				PRODUCT_NAME = RNFirebaseStarter;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
