@@ -16,10 +16,10 @@ import Main from './Main'
 // create our app's navigation stack
 const App = createSwitchNavigator(
   {
-    Loading: { screen: Loading },
-    SignUp: { screen: SignUp },
-    Login: { screen: Login },
-    Main: { screen: Main }
+    Loading,
+    SignUp,
+    Login,
+    Main
   },
   {
     initialRouteName: 'Loading'
